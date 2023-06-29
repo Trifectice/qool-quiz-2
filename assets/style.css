@@ -1,0 +1,48 @@
+.container {
+ max-width: 600px;
+ margin: 0 auto;
+ padding: 20px;
+ text-align: center;
+}
+  
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#choices {
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+#timer {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+body {
+  background-color: #56494E;
+  color: #A29C9B;
+}
+
+button {
+  background-color: #511C29;
+  color: #A29C9B;
+}
+
+#save {
+  background-color: #511C29;
+  color: #A29C9B;
+}
+
+#initials {
+  display: none;
+}
